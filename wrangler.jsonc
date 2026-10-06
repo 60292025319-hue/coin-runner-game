@@ -1,0 +1,10 @@
+{
+  // Cloudflare Workers 設定ファイル
+  "name": "git-push-guide",
+  "compatibility_date": "2024-09-25",
+
+  // Static Assets: このディレクトリ以下のファイルをそのまま配信する
+  "assets": {
+    "directory": "./"
+  }
+}
